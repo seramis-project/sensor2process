@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<location name="point of sale">
+    <rectangle width="5.0" height="3.0">
+        <topLeft>
+            <x>41.3</x>
+            <y>44.6</y>
+        </topLeft>
+    </rectangle>
+</location>

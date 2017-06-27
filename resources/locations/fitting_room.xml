@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<composite name="fitting room" operator="OR">
+    <rectangle width="4.5" height="10.0">
+        <topLeft>
+            <x>35.0</x>
+            <y>4.0</y>
+        </topLeft>
+    </rectangle>
+    <rectangle width="5.0" height="10.0">
+        <topLeft>
+            <x>35.0</x>
+            <y>35.0</y>
+        </topLeft>
+    </rectangle>
+    <rectangle width="5.0" height="10.0">
+        <topLeft>
+            <x>27.6</x>
+            <y>19.0</y>
+        </topLeft>
+    </rectangle>
+    <rectangle width="5.0" height="10.0">
+        <topLeft>
+            <x>20.2</x>
+            <y>3.0</y>
+        </topLeft>
+    </rectangle>
+    <rectangle width="5.0" height="10.0">
+        <topLeft>
+            <x>20.2</x>
+            <y>35.0</y>
+        </topLeft>
+    </rectangle>
+    <!--  new PlainLocation(new Polygon(0, 4, 3, 4, 3, 14, 0, 14)))); -->
+    <rectangle width="3.0" height="10.0">
+        <topLeft>
+            <x>0.0</x>
+            <y>4.0</y>
+        </topLeft>
+    </rectangle>
+</composite>
